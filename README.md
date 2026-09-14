@@ -1,3 +1,9 @@
+# NOTE: A *NEWER* Version of this Course is Available!
+
+A newer/updated version of this course - as given at 
+at ACM Siggraph 2026 - is now available at
+https://github.com/ingowald/SiggraphCourseOptixAndOWL/ !!!
+
 # Siggraph 2019/2020 OptiX 7 (and newer) Course Tutorial Code
 
 ## General Note(s) on this Repo/Sample Code
